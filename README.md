@@ -1,6 +1,6 @@
 # Java-simple-email-app
 
-#A simple mail application using java
+# A simple mail application using java
 
 before using this application you should :
 
